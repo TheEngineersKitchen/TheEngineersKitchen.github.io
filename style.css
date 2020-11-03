@@ -267,7 +267,9 @@ img {
 	width: 1180px;
 	margin: 35px auto 0 auto;
 }
-
+.next{
+	margin-left: 10px;
+}
 #search input.button {
 	margin-left: 1em;
 	border: 0;
