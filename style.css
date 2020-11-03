@@ -289,4 +289,10 @@ img {
 }
 #sidebar ul {
 	list-style: none;
+
 }
+
+#sidebar ul li {
+    padding: 10px 0 10px 0;
+    border-top: dashed 1px #c4c4c4;
+	}
