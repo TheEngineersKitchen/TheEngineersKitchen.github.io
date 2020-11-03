@@ -185,7 +185,6 @@ img {
 }
 
 #main .sectionList {
-	list-style: none;
 	padding-left: 0;
 }
 
@@ -207,7 +206,6 @@ img {
 }
 
 #main ul {
-	list-style: none;
 }
 
 #main ul li {
