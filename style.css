@@ -206,6 +206,7 @@ img {
 }
 
 #main ul {
+	list-style: none;
 }
 
 #main ul li {
@@ -285,4 +286,7 @@ img {
 	width: 160px;
 	float: left;
 	padding: 0;
+}
+#sidebar ul {
+	list-style: none;
 }
